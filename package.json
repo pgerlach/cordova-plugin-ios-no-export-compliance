@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-ios-no-export-compliance",
+  "version": "0.0.1",
+  "description": "TODO.",
+  "cordova": {
+    "id": "cordova-plugin-ios-no-export-compliance",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgerlach/cordova-plugin-ios-no-export-compliance.git"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
